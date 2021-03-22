@@ -1,0 +1,24 @@
+###############################################
+
+# Run GitHub's Super Linter against code base #
+
+###############################################
+
+
+
+name: linter
+
+
+
+on: push
+
+
+
+jobs:
+
+  run-linters:
+
+    name: Linters
+
+    runs-on: ubuntu-latest
+
