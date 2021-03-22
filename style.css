@@ -1,0 +1,26 @@
+body {
+        background-image: url("Images/333.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+}
+h2 {
+          text-align: center;
+          font-family: "Indie Flower", cursive;
+          padding : 75px;
+          margin : 150px;
+}
+
+input {
+            width:  300px;
+            height: 40px;
+            border: 2px solid #000;
+}
+
+.mybutton {
+            background-color:#333;
+            color : #ffff;
+            border: 2px solid #000;
+            font-family: "Indie Flower", cursive;
+            width : 150px;
+            height: 50px;
+}
